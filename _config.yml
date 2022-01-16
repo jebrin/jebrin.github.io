@@ -1,0 +1,101 @@
+# WhatATheme
+markdown: kramdown
+
+# URL of the Site
+url: 'jebrin.github.io'
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: 
+
+# Title of the Site
+title: جبرین ترابر جنوب
+# Description of the Site
+description: شرکت حمل و نقل جبری ترابر جنوب
+# URL of Image of the Site
+site-image: /assets/images/meta.jpg
+# Keywords of the Site
+site-keywords: Site, Template, Theme
+# URL for the Image of custom Favicon
+favicon-url: 
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: 
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: mb.zeraatpisheh@gmail.com
+facebook_username: 
+twitter_username: 
+instagram_username: /
+linkedin_username: 
+github_username:  
+youtube_channel_id: 
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username:
+mobile_number: 989177138935
+phone_number: 7632212330
+fax: 7632234497
+whatsapp: true
+
+# Google Analytics
+google-analytics: 
+
+# Disqus
+disqus-shortname: 
+
+# Name of the Author
+author-name: جبرین ترابر جنوب
+# URL for the Image of the Author
+author-image: 
+# 60 Words About the Author
+author-about: شرکت جبرین ترابر جنوب از شرکت‌های تراز اول بندرعباس با میانگین حدود۲۵۰۰ بارنامه صادره ماهیانه است. این شرکت کلیه امور حمل و نقل سبک، سنگین و فوق سنگین به تمام نقاط کشور و گمرک‌های مرزی را انجام می‌دهد. داشتن کادری مجرب و سال‌ها فعالیت درخشان، در اختیار داشتن ترمینال خصوصی با مساحتی بالغ بر پنج هزار متر مربع، امکانات نامحدود جهت تامین انواع کامیون و کشنده حمل، همکاری با ارگان های مختلف دولتی و خصوصی جهت محموله‌های ترافیکی، اخذ هر گونه مجوز حمل  انواع کمرشکن، بوژی و کشویی ، تخصصی ترین محموله‌های زمینی، حمل انواع سواری و محمولهای یخچالی،  داشتن طرف همکاری در شهرهای تهران، شیراز، اصفهان، مشهد، بندر لنگه، ارومیه، گرگان، بوشهر، آبادان، خرمشهر، چابهار و اکثر شهر‌ها و گمرک‌های مرزی کشور بخشی از توانمدی این شرکت است.
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: 
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
