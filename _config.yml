@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: 
+heroimage: /assets/images/hero.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -31,7 +31,9 @@ mobile_number: 989177138935
 phone_number: 7632212330
 fax: 7632234497
 whatsapp: true
-address: "دفتر مرکزی: بندرعباس، میدان شهدا (یادبود)، بلوار امام خمینی، روبروی خیابان دانش، جنب ملکه آسمانها، مجتمع شمسا، طبقه اول، واحد ۲"
+address: "دفتر مرکزی: بندرعباس، میدان شهدا (یادبود)، بلوار امام خمینی، روبروی خیابان دانش،
+  جنب ملکه آسمانها، مجتمع شمسا، طبقه اول، واحد ۲ <br>
+  کد پستی: ۳۳۴۸۷۷۹۱۳۹"
 location: https://goo.gl/maps/zizdoHTwqSzyyT4Z6
 
 # Google Analytics
@@ -43,7 +45,7 @@ disqus-shortname:
 # Name of the Author
 author-name: جبرین ترابر جنوب
 # URL for the Image of the Author
-author-image: 
+author-image: /assets/images/author.png
 # 60 Words About the Author
 author-about: شرکت جبرین ترابر جنوب از شرکت‌های تراز اول بندرعباس با میانگین حدود۲۵۰۰ بارنامه صادره ماهیانه است. این شرکت کلیه امور حمل و نقل سبک، سنگین و فوق سنگین به تمام نقاط کشور و گمرک‌های مرزی را انجام می‌دهد. داشتن کادری مجرب و سال‌ها فعالیت درخشان، در اختیار داشتن ترمینال خصوصی با مساحتی بالغ بر پنج هزار متر مربع، امکانات نامحدود جهت تامین انواع کامیون و کشنده حمل، همکاری با ارگان های مختلف دولتی و خصوصی جهت محموله‌های ترافیکی، اخذ هر گونه مجوز حمل  انواع کمرشکن، بوژی و کشویی ، تخصصی ترین محموله‌های زمینی، حمل انواع سواری و محمولهای یخچالی،  داشتن طرف همکاری در شهرهای تهران، شیراز، اصفهان، مشهد، بندر لنگه، ارومیه، گرگان، بوشهر، آبادان، خرمشهر، چابهار و اکثر شهر‌ها و گمرک‌های مرزی کشور بخشی از توانمدی این شرکت است.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
